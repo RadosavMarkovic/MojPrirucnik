@@ -17,6 +17,8 @@ Sadržaj
 4. Projekat koji sadrži samo opciju Index.cshtml
 5. Opcija samo HomoeController
 6. Opcija Veza HomeController i Index.cshtml
+7. Opcija Model-Controller-View.
+8. Primer Model-HomeController-Incex.cshtml -izlistaj podatke koji su napisani u HomeController devinisani u Model-u i izbaciti u Index.cshtml
 
 Dati ime novog projekta
 
