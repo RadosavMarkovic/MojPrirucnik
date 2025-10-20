@@ -15,7 +15,7 @@ Sadržaj
 2. Opcije u meniju projekta
 3. Najjednostavniji program. Hello World!
 4. Projekat koji sadrži samo opciju Index.cshtml
-5. Opcija samo HomoeController
+5. Opcija samo HomeController
 6. Opcija Veza HomeController i Index.cshtml
 7. Opcija Model-Controller-View.
 8. Primer Model-HomeController-Incex.cshtml -izlistaj podatke koji su napisani u HomeController devinisani u Model-u i izbaciti u Index.cshtml
