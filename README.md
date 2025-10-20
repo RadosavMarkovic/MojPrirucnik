@@ -11,7 +11,7 @@ Sadržaj
 
 1. Satartovati Visual studio 2022
 
-1. Stait. Ime Projekta
+1. Start. Ime Projekta
 2. Opcije u meniju projekta
 3. Najjednostavniji program. Hello World!
 4. Projekat koji sadrži samo opciju Index.cshtml
