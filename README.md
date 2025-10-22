@@ -22,6 +22,7 @@ Sadržaj
 9. Primer Model-HomeController-Incex.cshtml -izlistaj podatke koji su napisani u HomeController devinisani u Model-u i izbaciti u Index.cshtml
 
 model-controller-view
+nisam uspeo da napravim neke stvari...
 
 Napraviti projekat najjednistavniji...
 
