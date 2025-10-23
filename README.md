@@ -25,6 +25,6 @@ Kada startujemo Visual Studio 2022 kliknemo na opciju CReate a New Projecat. Zat
 Upisaćemo ime projekta i ako nije postavljen postavićemo Explorer..Tu će biti napisano ime projekte ispod imena Model Controller i View.
 Program1.
 Kliknimo opciju View zatim opciju Home i na kraju Index.cshtml.
-dobićemo dokument napisan u hatml. U redu <h1>Wlcome</h1> prepravimo u <h1>Wlcome---Zdravo Svete---</h1> 
+dobićemo dokument napisan u hatml. U redu <h1>Welcome</h1> prepravimo u <h1>Wlcome---Zdravo Svete---</h1> 
 Otkucajmo tipku F5 i dobićemo izveštaj Welcome---Zdravo Svete---
 
