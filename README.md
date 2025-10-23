@@ -21,11 +21,10 @@ Sadržaj
 8. Opcija Model-Controller-View.
 9. Primer Model-HomeController-Incex.cshtml -izlistaj podatke koji su napisani u HomeController devinisani u Model-u i izbaciti u Index.cshtml
 
-model-controller-view
+Kada startujemo Visual Studio 2022 kliknemo na opciju CReate a New Projecat. Zatim Next i odabrati opciju ASP.NET Core Web App(Model-View-Controller) C#
+Upisaćemo ime projekta i ako nije postavljen postavićemo Explorer..Tu će biti napisano ime projekte ispod imena Model Controller i View.
+Program1.
+Kliknimo opciju View zatim opciju Home i na kraju Index.cshtml.
+dobićemo dokument napisan u hatml. U redu <h1>Wlcome</h1> prepravimo u <h1>Wlcome---Zdravo Svete---</h1> 
+Otkucajmo tipku F5 i dobićemo izveštaj Welcome---Zdravo Svete---
 
-
-Napraviti projekat najjednistavniji...
-
-
-
-izabrati opciju c#
