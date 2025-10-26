@@ -26,6 +26,6 @@ Upisaćemo ime projekta i ako nije postavljen postavićemo Explorer..Tu će biti
 Najjednostavniji Prmer kada napišemo samo u Views-Home-index.cshtnl<br/>
 Program1.<br/>
 Kliknimo opciju View zatim opciju Home i na kraju Index.cshtml.txt
-dobićemo dokument napisan u hatml. U redu <h1>Welcome</h1> prepravimo u <h1>Wlcome---Zdravo Svete---</h1> 
+dobićemo dokument napisan u hatml. U redu "<h1>Welcome</h1>" prepravimo u "<h1>Wlcome---Zdravo Svete---</h1> " <br/>
 Otkucajmo tipku F5 i dobićemo izveštaj Welcome---Zdravo Svete---
 
